@@ -1,3 +1,6 @@
 [submodule "ARTI308-Lab1"]
 	path = ARTI308-Lab1
 	url = https://github.com/Ibrahimk12a/ARTI308-Lab1.git
+[submodule "ARTI308-Lab2"]
+	path = ARTI308-Lab2
+	url = https://github.com/Ibrahimk12a/ARTI308-Lab2.git
